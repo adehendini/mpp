@@ -1,0 +1,143 @@
+{
+	{
+      "id": 1,
+      "nama_produk": "iPhone 9",
+      "deskripsi": "An apple mobile which is nothing like apple",
+      "harga": 9499000,
+      "stok": 94,
+      "thumbnail": "https://dummyjson.com/image/i/products/1/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/1/1.jpg",
+        "https://dummyjson.com/image/i/products/1/2.jpg",
+        "https://dummyjson.com/image/i/products/1/3.jpg",
+        "https://dummyjson.com/image/i/products/1/4.jpg",
+        "https://dummyjson.com/image/i/products/1/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "nama_produk": "iPhone X",
+      "deskripsi": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "harga": 4400000,
+      "stok": 34,
+      "thumbnail": "https://dummyjson.com/image/i/products/2/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/2/1.jpg",
+        "https://dummyjson.com/image/i/products/2/2.jpg",
+        "https://dummyjson.com/image/i/products/2/3.jpg",
+        "https://dummyjson.com/image/i/products/2/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "nama_produk": "Samsung Universe 9",
+      "deskripsi": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "harga": 15499000,
+      "stok": 36,
+      "thumbnail": "https://dummyjson.com/image/i/products/3/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/3/1.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "nama_produk": "OPPOF19",
+      "deskripsi": "OPPO F19 is officially announced on April 2021.",
+      "harga": 3780000,
+      "stok": 123,
+      "thumbnail": "https://dummyjson.com/image/i/products/4/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/4/1.jpg",
+        "https://dummyjson.com/image/i/products/4/2.jpg",
+        "https://dummyjson.com/image/i/products/4/3.jpg",
+        "https://dummyjson.com/image/i/products/4/4.jpg",
+        "https://dummyjson.com/image/i/products/4/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "nama_produk": "Huawei P30",
+      "deskripsi": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 7850000,
+      "harga": 32,
+      "stok": 32,
+      "thumbnail": "https://dummyjson.com/image/i/products/5/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/5/1.jpg",
+        "https://dummyjson.com/image/i/products/5/2.jpg",
+        "https://dummyjson.com/image/i/products/5/3.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "nama_produk": "MacBook Pro",
+      "deskripsi": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "harga": 23520000,
+      "stok": 83,
+      "thumbnail": "https://dummyjson.com/image/i/products/6/thumbnail.png",
+      "images": [
+        "https://dummyjson.com/image/i/products/6/1.png",
+        "https://dummyjson.com/image/i/products/6/2.jpg",
+        "https://dummyjson.com/image/i/products/6/3.png",
+        "https://dummyjson.com/image/i/products/6/4.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "nama_produk": "Samsung Galaxy Book",
+      "deskripsi": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "harga": 22290879,
+      "stok": 50,
+      "thumbnail": "https://dummyjson.com/image/i/products/7/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/7/1.jpg",
+        "https://dummyjson.com/image/i/products/7/2.jpg",
+        "https://dummyjson.com/image/i/products/7/3.jpg",
+        "https://dummyjson.com/image/i/products/7/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "nama_produk": "Microsoft Surface Laptop 4",
+      "deskripsi": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+      "harga": 22290879,
+      "stok": 68,
+      "thumbnail": "https://dummyjson.com/image/i/products/8/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/8/1.jpg",
+        "https://dummyjson.com/image/i/products/8/2.jpg",
+        "https://dummyjson.com/image/i/products/8/3.jpg",
+        "https://dummyjson.com/image/i/products/8/4.jpg",
+        "https://dummyjson.com/image/i/products/8/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "nama_produk": "Infinix INBOOK",
+      "deskripsi": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+      "harga": 16240000,
+      "stok": 96,
+      "thumbnail": "https://dummyjson.com/image/i/products/9/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/9/1.jpg",
+        "https://dummyjson.com/image/i/products/9/2.png",
+        "https://dummyjson.com/image/i/products/9/3.png",
+        "https://dummyjson.com/image/i/products/9/4.jpg",
+        "https://dummyjson.com/image/i/products/9/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "nama_produk": "HP Pavilion 15-DK1056WM",
+      "deskripsi": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+      "harga": 16300000,
+      "stok": 89,
+      "thumbnail": "https://dummyjson.com/image/i/products/10/thumbnail.jpeg",
+      "images": [
+        "https://dummyjson.com/image/i/products/10/1.jpg",
+        "https://dummyjson.com/image/i/products/10/2.jpg",
+        "https://dummyjson.com/image/i/products/10/3.jpg",
+        "https://dummyjson.com/image/i/products/10/thumbnail.jpeg"
+      ]
+    }
+}
