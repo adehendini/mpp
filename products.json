@@ -1,5 +1,6 @@
 {
-	"products": [
+  "status": "success",
+	"data": [
     {
       "id": 1,
       "nama_produk": "iPhone 9",
