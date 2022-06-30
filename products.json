@@ -1,5 +1,6 @@
 {
-	{
+	"products": [
+    {
       "id": 1,
       "nama_produk": "iPhone 9",
       "deskripsi": "An apple mobile which is nothing like apple",
@@ -140,4 +141,5 @@
         "https://dummyjson.com/image/i/products/10/thumbnail.jpeg"
       ]
     }
+  ]
 }
